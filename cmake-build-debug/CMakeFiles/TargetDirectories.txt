@@ -1,0 +1,5 @@
+C:/Users/EncVar/CLionProjects/MCLC/cmake-build-debug/CMakeFiles/MCLC.dir
+C:/Users/EncVar/CLionProjects/MCLC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/EncVar/CLionProjects/MCLC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/EncVar/CLionProjects/MCLC/cmake-build-debug/CMakeFiles/MCLC_autogen_timestamp_deps.dir
+C:/Users/EncVar/CLionProjects/MCLC/cmake-build-debug/CMakeFiles/MCLC_autogen.dir
